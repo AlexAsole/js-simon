@@ -56,6 +56,6 @@ btn.addEventListener('click',function(){
     alert('Hai indovinato: ' + userArray.length + ' numeri!');
     alert('I numeri generati erano: ' + pcArray);
     alert('I numeri indovinati sono: ' + userArray);
-  }, 3000);
+  }, 30000);
 
 })
